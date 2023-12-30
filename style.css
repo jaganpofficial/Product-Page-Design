@@ -6,9 +6,8 @@
 }
 .container {
 	width: 100%;
-
 	min-height: 100vh;
-	background-color: #d0eaff;
+	background-color: #182d42;
 	display: flex;
 	align-items: center;
 	justify-content: center;
